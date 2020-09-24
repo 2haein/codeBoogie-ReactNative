@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "my-app",
+    "name": "코드부기 코딩",
     "slug": "my-app",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -16,11 +16,17 @@
     "assetBundlePatterns": [
       "**/*"
     ],
-    "ios": {
-      "supportsTablet": true
-    },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "ios": {
+      "bundleIdentifier": "com.thekpop.codeBoogie",
+      "buildNumber": "1.0.0",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.thekpop.codeBoogie",
+      "versionCode": 1
     }
   }
 }
