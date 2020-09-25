@@ -1,2 +1,2 @@
-# codeBoogieReactNative
+# codeBoogie-ReactNative
 ReactNative app
