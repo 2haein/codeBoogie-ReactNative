@@ -25,7 +25,6 @@
     "android": {
       "package": "com.thekpop.codeBoogie",
       "versionCode": 2,
-      // "versionName": "1.0.1",
       "permissions": ["CAMERA", "READ_EXTERNAL_STORAGE"]
     }
   }
